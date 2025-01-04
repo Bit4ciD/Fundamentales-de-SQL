@@ -1,4 +1,4 @@
---Comprueba los registros y devuelve un resultado en funcion de los condicionales
+--Comprueba 
 SELECT *,
 CASE
     WHEN age > 18 THEN 'Es mayor de edad'
